@@ -1,0 +1,7 @@
+C:\dev\.net\Colecoes\ProvaQuestao3\obj\Debug\ProvaQuestao3.csproj.AssemblyReference.cache
+C:\dev\.net\Colecoes\ProvaQuestao3\obj\Debug\ProvaQuestao3.csproj.CoreCompileInputs.cache
+C:\dev\.net\Colecoes\ProvaQuestao3\bin\Debug\ProvaQuestao3.exe.config
+C:\dev\.net\Colecoes\ProvaQuestao3\bin\Debug\ProvaQuestao3.exe
+C:\dev\.net\Colecoes\ProvaQuestao3\bin\Debug\ProvaQuestao3.pdb
+C:\dev\.net\Colecoes\ProvaQuestao3\obj\Debug\ProvaQuestao3.exe
+C:\dev\.net\Colecoes\ProvaQuestao3\obj\Debug\ProvaQuestao3.pdb
